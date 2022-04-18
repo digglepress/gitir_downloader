@@ -8,7 +8,7 @@ root = tk.Tk()
 
 def open_file():
     file = filedialog.askopenfilename(initialdir='~', title="Open file containing links")
-    file
+    print(file)
 
 
 def perform_download():
