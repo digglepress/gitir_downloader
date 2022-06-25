@@ -1,0 +1,14 @@
+{
+  "sections": [
+    {
+      "name": "16. Kubernetes Production Deployment",
+      "courses": [
+        "298-That's It! What's Next?"
+      ]
+    },
+    {
+      "name": "17. HTTPS Setup with Kubernetes",
+      "courses": []
+    }
+  ]
+}
